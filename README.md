@@ -1,4 +1,4 @@
-# DevConnect Project - MERN Full Stack (Front End + Back End)
+# DevConnect Theme Project 
 
 This repository contains theme used to build the MERN Full Stack "DevConnect" Project. Features: user authorization and user registration and handles profile, posts and users. The server-side web framework Express.js is used to help deploy our own back-end server faster, work with databases, set up security and testing, as well as deploying the back end on a VM in the Cloud. 
 [Link](https://github.com/lindakovacs/MERN-dev-connector-app)
